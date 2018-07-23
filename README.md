@@ -1,3 +1,5 @@
-# Shoreline video player
+# Shoreline Audio Player
 
-This is just a simple utility to play videos for an exhibition.
+Really simple python script to play mp3 files in repsonse to button presses.
+
+
